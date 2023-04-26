@@ -1,4 +1,4 @@
-![My Logo](dillusioners.png)
+![My Logo](Dillusioners.png)
 
 # INTRODUCTION
 - 👋 Hi, we are [Dillusioners](https://github.com/Dillusioners).
