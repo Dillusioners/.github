@@ -1,5 +1,3 @@
-![My Logo](Dillusioners.png)
-
 # INTRODUCTION
 - 👋 Hi, we are [Dillusioners](https://github.com/Dillusioners).
 - 👀 Currently Level 1 in SuperB's Events.
